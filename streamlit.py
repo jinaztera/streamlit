@@ -8,3 +8,5 @@ st.write("# Youtube view")
 
 
 st.bar_chart(view)
+
+st.bar_chart(view)
